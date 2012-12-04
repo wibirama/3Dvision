@@ -1,14 +1,14 @@
 %------------------------------------------------------------------%
-% Matlab implementation of 3D Reconstruction  		%
-% with interactive point selector									%	 
-%  Sunu Wibirama                  			    							%
-% Department of Electrical Engineering and				% 
-% Information Technology, UGM									%	 
-% Email : sunu@jteti.gadjahmada.edu							%
-%  Acknowledgment : 													%
-%  Thanks to Mr. Sorapong Aootaphao for teaching	%
-%  a lot of basic computer vision algorithm.				% 
-%  																						%
+% Matlab implementation of 3D Reconstruction  		         
+% with interactive point selector										 
+% Sunu Wibirama                  			    							
+% Department of Electrical Engineering and				 
+% Information Technology, UGM										 
+% Email : sunu@jteti.gadjahmada.edu							
+% Acknowledgment : 													
+% Thanks to Mr. Sorapong Aootaphao for teaching	
+% a lot of basic computer vision algorithm.				 
+%  																					
 %------------------------------------------------------------------%
 %read input 
 clear
