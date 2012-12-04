@@ -8,6 +8,7 @@
 % Acknowledgment : 													
 % Thanks to Mr. Sorapong Aootaphao for teaching	
 % a lot of basic computer vision algorithm.				 
+% a lot of basic computer vision algorithm				 
 %  																					
 %------------------------------------------------------------------%
 %read input 
