@@ -11,7 +11,7 @@ My source code is mainly based on some well-known computer vision books:
 2. Introductory Techniques for 3D computer vision (Emanuele Trucco, Alessandro Verri), Prentice Hall, 1998
 3. Multiple View Geometry in Computer Vision (Richard Hartley, Andrew Zisserman), Cambridge, 2004
 
-If you find my source code is interesting, please drop an email to sunu[at]jteti[dot]gadjahmada[dot]edu
+If you find my source code is interesting, please drop an email to sunu[at]jteti[dot]gadjahmada[dot]edu .
 In case you would like to use it in your publication, please cite the following paper : 
 
 S. Wibirama,  S. Tungjitkusolmun, and C. Pintavirooj , “Dual-Camera Acquisition for Accurate Measurement 
